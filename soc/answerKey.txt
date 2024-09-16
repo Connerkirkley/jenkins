@@ -1,0 +1,89 @@
+1st Puzzle
+Prompt: Sometimes for a tasty treat, all you need to do is take a big byte.
+
+Hidden hint: When the hint button is pressed, the text '8589934592' will appear under the main text.
+
+Thinking process: The key phrase 'big byte' is supposed to let the reader know it's something with computer memory. The hidden hint '8589934592' is the amount of bits in a gigabyte.
+
+Answer: Gigabyte
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2nd Puzzle
+Prompt: At the end of the screening, all you need to do is take a pill and everything will be all the same.
+
+Hidden hint: When the hint button is pressed, the text 'Screen rays' will appear under the main text.
+
+Thinking process: Without the context of 'The Matrix,' it could be hard to complete the puzzle, but with 'screening' and the hint being 'Screen rays,' I think 'blue light' must come across the reader's mind at some point.
+
+Answer: BlueLight
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3rd Puzzle
+Prompt: I couldn't tell a lie about numbers; all I know is it comes between 233 and 610.
+
+Hidden hint: When the hint button is pressed, the text 'Thesaurus' will appear under the main text.
+
+Thinking process: With some processing, they can find that 'fib' is a synonym of 'lie.' Fib, being short for Fibonacci, references 233 and 610 as numbers on the Fibonacci sequence, with 377 being between them.
+
+Answer: 377
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4th Puzzle
+Prompt: It comes between the creation and the destruction. It serves as a medium of life. You know it as?
+
+Hidden hint: When the hint button is pressed, the text '10 lexicon characters' will appear under the main text.
+
+Thinking process: Between creation and destruction and serving as all life. After some thought, the answer 'everything' fits that category.
+
+Answer: Everything
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5th Puzzle
+Prompt: Sometimes things are meant to rot. Sometimes you must find the answer hidden in the rot. Change things around like a wheel and you can find the answer.
+
+Hidden hint: When the hint button is pressed, the text 'cpuygt' will appear under the main text.
+
+Thinking process: This puzzle is a rot cipher, and 'rot' is mentioned twice. It is a rot 2 cipher.
+
+Answer: Answer
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6th Puzzle
+Prompt: After 64 attempts, you want something done right, so you make a script. Not something with actors or directors, but science.
+
+Hidden hint: When the hint button is pressed, the text '64 digits later you get where you want to be' will appear under the main text.
+
+Thinking process: It's a base 64 cipher, and '64 digits later' is a hint to encode something.
+
+Answer: c2NpZW5jZQ==
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7th Puzzle
+Prompt: When you try to join, you can always make progress. But the goal is always getting farther, and if you can keep going, you can get to your goal before eternity. Before you snap back to reality like a rubber rope, think about your investment: what have you been doing?
+
+Hidden hint: When the hint button is pressed, the text 'celery, peanut butter, raisins' will appear under the main text.
+
+Thinking process: The riddle is supposed to get you thinking about a moving goal you can eventually reach with enough time. The hint references 'ants on a log,' leading to the 'ant on a rubber rope' theory. The answer is 'antOnARubberRope.'
+
+Answer: antOnARubberRope
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8th Puzzle
+Prompt: Creating something takes a lot of effort; sometimes the answer is right in front of you.
+
+Hidden hint: There is no deeper hint for this one.
+
+Thinking process: You're using a computer of some type to view this. Those use a SCREEN.
+
+Answer: Screen
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+9th Puzzle
+Prompt: We want to help you, but you're making this difficult. Maybe you should think back 5 years; you'll find your solution deeper within.
+
+Hidden hint: When the hint button is pressed, the text '5 years ago you were how many digits?' will appear under the main text.
+
+Thinking process: It goes back to the hint in question 4 and references the hint.
+
+Answer: 10
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10th Puzzle
+Prompt: You've made it here, congratulations. What have you accomplished, really? All 9 answers, and you're still not in? Have fun figuring out this one; it's looping.
+
+Hidden hint: When the hint button is pressed, the text 'everything you have done so far over and over' will appear under the main text.
+
+Thinking process: The answer will take the previous 9 answers and take the 9th character in them. If they do not have 9 characters, it will loop until the 9th character.
+
+Answer: gt7nsZbr1

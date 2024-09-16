@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>6th puzzle</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            background-color: #232323;
+            position: relative;
+            overflow: hidden;
+        }
+
+        h1 {
+            color: #fff;
+            font-size: 48px;
+            position: absolute;
+            top: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            margin: 0;
+        }
+
+        h2 {
+            color: #fff;
+            font-size: 36px;
+            position: absolute;
+            top: calc(35% - 60px); 
+            left: 50%;
+            transform: translateX(-50%);
+            margin: 0;
+            opacity: 0; 
+            transition: opacity 0.3s ease;
+        }
+
+        button {
+            width: 200px;
+            height: 100px;
+            background-color: #ff0000;
+            color: #fff;
+            font-size: 24px;
+            border: none;
+            cursor: pointer;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            border-radius: 10px;
+            transform: translate(-50%, -50%);
+        }
+    </style>
+</head>
+<body>
+
+    <h1>After 64 attemps, you want somthing done right you make a script. Not something with actors or directors, but science.</h1>
+    <h2 id="hiddenText">64 numbers later you get where you want to be</h2>
+    <button id="toggleButton">Hint</button>
+
+
+
+    <script>document.addEventListener('DOMContentLoaded', () => {
+        const button = document.getElementById('toggleButton');
+        const h2 = document.getElementById('hiddenText');
+    
+        button.addEventListener('click', () => {
+            if (h2.style.opacity === '1') {
+                h2.style.opacity = '0'; 
+            } else {
+                h2.style.opacity = '1'; 
+            }
+        });
+    });</script>
+</body>
+</html>
